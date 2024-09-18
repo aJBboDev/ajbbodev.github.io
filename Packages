@@ -1,0 +1,96 @@
+Package: com.bandarhl.deviceinfo
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: BandarHelal
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/com.bandarhl.deviceinfo_1.2_iphoneos-arm.deb
+Size: 4908
+MD5sum: 4223789423f1ba2ffbfc0bf615cf13e7
+SHA1: 907f9a7f4c6cb4230ad385f34127f1dada913606
+SHA256: 067aade241709294c637e1ecc568a5a0a8a78fbbf860ddc52a9ef8403e3e5cd6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: BandarHelal
+Name: DeviceInfo
+
+Package: com.bandarhl.deviceinfo
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: BandarHelal
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/com.bandarhl.deviceinfo_1.2_iphoneos-arm64.deb
+Size: 4978
+MD5sum: 53cf5b678dbca291425ce558780742e9
+SHA1: f5b87a3789adf2b8a3051bda00c03bc0904755a4
+SHA256: 24e13ba26374a4fe2e93248e3c76c5de795f565913187635fa83b8e0e3edf465
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: BandarHelal
+Name: DeviceInfo
+
+Package: com.lnx.showtouch
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: LonestarX
+Installed-Size: 412
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debian_file/com.lnx.showtouch_1.0.4_iphoneos-arm64.deb
+Size: 60002
+MD5sum: 07c9dc09c85765b3a08c7d68fd8f6656
+SHA1: 6eb1b5ed9f27d2e21d2f2b6e62a7b36bf890e4e3
+SHA256: 7eca0fdecd6919f09bdc111fd76b53663c635541a13685f821f533cc127c84f8
+Section: Tweaks
+Description: Shows where you touch the screen
+Author: LonestarX
+Name: ShowTouch iOS15+
+
+Package: com.lnx.showtouch
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: LonestarX
+Installed-Size: 380
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debian_file/com.lnx.showtouch_1.0.4_iphoneos-arm.deb
+Size: 61138
+MD5sum: 434043b74baea168ceb711a66544fd74
+SHA1: 056cdbbded4152570840eeae85aef8d9ecc3d11b
+SHA256: cfe637e584f523dd4f4831bf4b0f29c096b4244d8350594b5c889b310d1d3857
+Section: Tweaks
+Description: Shows where you touch the screen
+Author: LonestarX
+Name: ShowTouch
+
+Package: net.ajbbo.inapp
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: aJBboCydia
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/net.ajbbo.inapp_1.1_iphoneos-arm.deb
+Size: 3030
+MD5sum: 7db67c41ad6d0d48ad71846abf6d70ac
+SHA1: b57ad6261dd132dda76752cf423215a1cd74b7f3
+SHA256: 7f794d97a3ce51c3dde9a52a3620253e1be28c821c031c2da95dcb20bed9ea18
+Section: Tweaks
+Description: Enable In-App Purchase
+Author: aJBboCydia
+Name: In-App Purchase
+
+Package: net.ajbbo.inapp
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: aJBboCydia
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/net.ajbbo.inapp_1.1_iphoneos-arm64.deb
+Size: 2854
+MD5sum: 35a0e6feb75d954311bb9e7bf2cb3206
+SHA1: 13138840cc9f4a66555c5ca62b20ff5321b5fc86
+SHA256: 62367296fcff7b900fb77637262429f9071cd1edb50fc016023426327ccd77dc
+Section: Tweaks
+Description: Enable In-App Purchase
+Author: aJBboCydia
+Name: In-App Purchase
+
