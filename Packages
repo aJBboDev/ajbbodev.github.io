@@ -69,13 +69,14 @@ Maintainer: aJBboCydia
 Installed-Size: 620
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debian_file/net.ajbbo.actiktok_1.0_iphoneos-arm64.deb
-Size: 150652
-MD5sum: 9db12b26a1621849847d947710418b8e
-SHA1: e76718e41beb10d0b414a7218acd2c8a1b058fa7
-SHA256: abbde2029d9310817830ad05171f020ab57d7a1fc651686661e3f811879ca785
+Size: 150534
+MD5sum: 11ff356b3b0f50bc86b29a3628b97e43
+SHA1: cf5d2a61aaa53b7f31ca9e31422d27e68c0d894e
+SHA256: 60a16e4896c363a7faa218a6f9fcb1f6b6421097ae2167a2ccaf2b986836e0b7
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: aJBboCydia
+Depiction: https://ajbbodev.github.io/pkginfo/net.ajbbo.actiktok
 Name: ACTikTok
 
 Package: net.ajbbo.disableshareplay
