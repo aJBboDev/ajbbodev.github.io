@@ -30,6 +30,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: BandarHelal
 Name: DeviceInfo
 
+Package: com.crazymind90.oslogger
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: @CrazyMind90
+Installed-Size: 636
+Depends: mobilesubstrate
+Filename: ./debian_file/com.crazymind90.oslogger_0.0.1_iphoneos-arm64.deb
+Size: 205926
+MD5sum: 6bc18938d432026aa26f454efb58b3c0
+SHA1: 99b4dd435c2bd89a5b57ed45b493c21c58eb152d
+SHA256: b0839af2a029e07dae027ad90303de450d8f986bbaf7c5472e7c5814c0c2753d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @CrazyMind90
+Name: OSLogger
+
 Package: com.lnx.showtouch
 Version: 1.0.4
 Architecture: iphoneos-arm64
