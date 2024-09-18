@@ -1,21 +1,5 @@
 Package: com.bandarhl.deviceinfo
 Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: BandarHelal
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debian_file/com.bandarhl.deviceinfo_1.2_iphoneos-arm.deb
-Size: 4908
-MD5sum: 4223789423f1ba2ffbfc0bf615cf13e7
-SHA1: 907f9a7f4c6cb4230ad385f34127f1dada913606
-SHA256: 067aade241709294c637e1ecc568a5a0a8a78fbbf860ddc52a9ef8403e3e5cd6
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: BandarHelal
-Name: DeviceInfo
-
-Package: com.bandarhl.deviceinfo
-Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: BandarHelal
 Installed-Size: 88
@@ -46,37 +30,21 @@ Description: Shows where you touch the screen
 Author: LonestarX
 Name: ShowTouch iOS15+
 
-Package: com.lnx.showtouch
-Version: 1.0.4
-Architecture: iphoneos-arm
-Maintainer: LonestarX
-Installed-Size: 380
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debian_file/com.lnx.showtouch_1.0.4_iphoneos-arm.deb
-Size: 61138
-MD5sum: 434043b74baea168ceb711a66544fd74
-SHA1: 056cdbbded4152570840eeae85aef8d9ecc3d11b
-SHA256: cfe637e584f523dd4f4831bf4b0f29c096b4244d8350594b5c889b310d1d3857
-Section: Tweaks
-Description: Shows where you touch the screen
-Author: LonestarX
-Name: ShowTouch
-
-Package: net.ajbbo.inapp
-Version: 1.1
-Architecture: iphoneos-arm
+Package: net.ajbbo.disableshareplay
+Version: 0.0.2
+Architecture: iphoneos-arm64
 Maintainer: aJBboCydia
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debian_file/net.ajbbo.inapp_1.1_iphoneos-arm.deb
-Size: 3030
-MD5sum: 7db67c41ad6d0d48ad71846abf6d70ac
-SHA1: b57ad6261dd132dda76752cf423215a1cd74b7f3
-SHA256: 7f794d97a3ce51c3dde9a52a3620253e1be28c821c031c2da95dcb20bed9ea18
+Filename: ./debian_file/net.ajbbo.disableshareplay_0.0.2_iphoneos-arm64.deb
+Size: 2944
+MD5sum: 0f645daf036c91b433e27587b1032457
+SHA1: 0e7a3996e756d14335f081261a2ae53d645a5dbc
+SHA256: 15391a97b75993e34fd974ea4a6076b620137d1ac520873b3cffe016b6d76586
 Section: Tweaks
-Description: Enable In-App Purchase
+Description: An awesome MobileSubstrate tweak!
 Author: aJBboCydia
-Name: In-App Purchase
+Name: disableSharePlay
 
 Package: net.ajbbo.inapp
 Version: 1.1
