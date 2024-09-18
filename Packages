@@ -1,3 +1,19 @@
+Package: ajbbodev.sbpagecontrol
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: aJBboCydia
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debian_file/ajbbodev.sbpagecontrol_0.0.1_iphoneos-arm64.deb
+Size: 4696
+MD5sum: 763c48c75d163f816a40625f3bc4f1a7
+SHA1: 6ab34b13939e62512b13879ce0e811bb6cce3bfb
+SHA256: a9273629e2b2537f5380ee7014e746ce81e45c602cca6cfecc641e414343d685
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: aJBboCydia
+Name: SBPageControlHidden
+
 Package: com.bandarhl.deviceinfo
 Version: 1.2
 Architecture: iphoneos-arm64
