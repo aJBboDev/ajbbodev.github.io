@@ -64,6 +64,23 @@ Name: ShowTouch iOS15+
 
 Package: net.ajbbo.actiktok
 Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: aJBboCydia
+Installed-Size: 620
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/net.ajbbo.actiktok_1.0_iphoneos-arm.deb
+Size: 155128
+MD5sum: bbf2c0775576bae9a5fbfd9a5b89a20f
+SHA1: e4be771f946c037f7b4f8c2659dbaf5da7124ebc
+SHA256: 3a98af512494fd05dc0e7930defa7833af8cbe675413858995da9a4c6d55ffc9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: aJBboCydia
+Depiction: https://ajbbodev.github.io/pkginfo/description.html?id=net.ajbbo.actiktok
+Name: ACTikTok
+
+Package: net.ajbbo.actiktok
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: aJBboCydia
 Installed-Size: 620
