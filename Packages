@@ -128,6 +128,38 @@ Description: An awesome MobileSubstrate tweak!
 Author: aJBboCydia
 Name: ACTikTok
 
+Package: net.ajbbo.actiktok
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: aJBboCydia
+Installed-Size: 676
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/net.ajbbo.actiktok_1.2_iphoneos-arm64.deb
+Size: 160782
+MD5sum: 00c32d107388765b59213ce9f3e7684f
+SHA1: 0c14423505945b1613ec17effcfe5da19bf5cc7d
+SHA256: a496e1c27f7a1fe5518b277577258b90b060d5ec75ba4de9c946417d0ae03513
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: aJBboCydia
+Name: ACTikTok
+
+Package: net.ajbbo.actiktok
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: aJBboCydia
+Installed-Size: 692
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/net.ajbbo.actiktok_1.2_iphoneos-arm.deb
+Size: 167936
+MD5sum: 07229cee051c9bd463d16a6058240642
+SHA1: 75e335943a35cd3f0c1235712364cad3aeb40ea4
+SHA256: 9e58ede0bd549b704c36f1b57d551410bf989fec7328c926c72cbe425b903f1e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: aJBboCydia
+Name: ACTikTok
+
 Package: net.ajbbo.disableshareplay
 Version: 0.0.2
 Architecture: iphoneos-arm64
