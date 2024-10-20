@@ -215,10 +215,10 @@ Maintainer: aJBboCydia
 Installed-Size: 720
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debian_file/net.ajbbo.actiktok_1.4_iphoneos-arm.deb
-Size: 189150
-MD5sum: 651aa4c8a06d627864fd0bb867cfc524
-SHA1: f163ce4cac1e1f041b793c64ddbddac883925282
-SHA256: a3be1dccc0fbdde8c167103ac91ca7364dbc5a50f858eca6382c2f38b21a16aa
+Size: 190042
+MD5sum: aac14a5652a64f45f3b52491ec6aeead
+SHA1: c391f1b1d929171b5db7e3ae6250270bc7ca4e0f
+SHA256: 4a3260d8f5d640bc5271027ab1a026dcdf05ed024062465b795a12c1f9134c90
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: aJBboCydia
