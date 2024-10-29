@@ -62,6 +62,22 @@ Description: Shows where you touch the screen
 Author: LonestarX
 Name: ShowTouch iOS15+
 
+Package: net.ajbbo.acjodel
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: aJBboCydia
+Installed-Size: 540
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/net.ajbbo.acjodel_1.0_iphoneos-arm64.deb
+Size: 121866
+MD5sum: 1f273d2b47671c20e17235611fc6bcb5
+SHA1: db60f4d0ed380f4a78c9d5701bf772d0c4114b80
+SHA256: e4df684c6f403124d5ba1d99637e85f5cb36fb69aea74f359f286f65abaf7220
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: aJBboCydia
+Name: ACJodel
+
 Package: net.ajbbo.acthreads
 Version: 1.0
 Architecture: iphoneos-arm64
