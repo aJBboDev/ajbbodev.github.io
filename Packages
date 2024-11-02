@@ -63,38 +63,6 @@ Author: LonestarX
 Name: ShowTouch iOS15+
 
 Package: net.ajbbo.acjodel
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: aJBboCydia
-Installed-Size: 540
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debian_file/net.ajbbo.acjodel_1.0_iphoneos-arm64.deb
-Size: 121866
-MD5sum: 1f273d2b47671c20e17235611fc6bcb5
-SHA1: db60f4d0ed380f4a78c9d5701bf772d0c4114b80
-SHA256: e4df684c6f403124d5ba1d99637e85f5cb36fb69aea74f359f286f65abaf7220
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: aJBboCydia
-Name: ACJodel
-
-Package: net.ajbbo.acjodel
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: aJBboCydia
-Installed-Size: 540
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debian_file/net.ajbbo.acjodel_1.0-1_iphoneos-arm64.deb
-Size: 124098
-MD5sum: cfaae376b24082301c3999faf53f80f1
-SHA1: 18cf2f017bfb94665f7dd1a82bb1a837107e7ffc
-SHA256: 8d752658fbc9e389ddbc4b3abad242b0bffe4818de751f8d495b76a2dfd47e30
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: aJBboCydia
-Name: ACJodel
-
-Package: net.ajbbo.acjodel
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: aJBboCydia
@@ -105,6 +73,22 @@ Size: 76480
 MD5sum: bf533d96cd202ea4b907d3345db55570
 SHA1: 99eb696e67c6eb9cc53fcd9122de68bfb19d1733
 SHA256: e973021c80131b837d3f129632e2b4ebac5331f3f9c95acda6eb42a8c4163c7e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: aJBboCydia
+Name: ACJodel
+
+Package: net.ajbbo.acjodel
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: aJBboCydia
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/net.ajbbo.acjodel_1.2_iphoneos-arm64.deb
+Size: 76704
+MD5sum: 79ce339b7fa1ed1cab6c37af35ef6b5e
+SHA1: a0e2448e8ecfcda25c6a40f6c86f9f13e82fa318
+SHA256: d5ed120adfbf6ea582928577ea8d16638f33acc6956db286a27864e5a09932bb
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: aJBboCydia
