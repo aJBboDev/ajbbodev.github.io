@@ -101,10 +101,10 @@ Maintainer: aJBboCydia
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debian_file/net.ajbbo.acjodel_1.1_iphoneos-arm64.deb
-Size: 76494
-MD5sum: 969cc9ec7cb7bf8611bf2c279ead15d5
-SHA1: 06e268fad14849eff3eb989356e2b4b86e1882e2
-SHA256: 217644b0d3af3e1cd85073e998e548e92a8bf4645641c985bf7071d5798c801c
+Size: 76480
+MD5sum: bf533d96cd202ea4b907d3345db55570
+SHA1: 99eb696e67c6eb9cc53fcd9122de68bfb19d1733
+SHA256: e973021c80131b837d3f129632e2b4ebac5331f3f9c95acda6eb42a8c4163c7e
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: aJBboCydia
