@@ -126,6 +126,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: aJBboCydia
 Name: ACJodel
 
+Package: net.ajbbo.acjodel
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: aJBboCydia
+Installed-Size: 488
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/net.ajbbo.acjodel_1.5_iphoneos-arm64.deb
+Size: 79970
+MD5sum: b789423608d704a6b80dc5d48244ae94
+SHA1: a19557f5bfa027db4c3854701e4d4b919772eb5a
+SHA256: d654eb5bfe8b977a81ded090248c95fe7ebd31cb54f9b83483bb2b2e0bf38d9b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: aJBboCydia
+Name: ACJodel
+
 Package: net.ajbbo.acthreads
 Version: 1.0
 Architecture: iphoneos-arm64
