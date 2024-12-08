@@ -30,3 +30,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: aJBboCydia
 Name: ACJodel
 
+Package: net.ajbbo.actiktok
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: aJBboCydia
+Installed-Size: 1096
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/net.ajbbo.actiktok_2.0_iphoneos-arm64e.deb
+Size: 303136
+MD5sum: 5314cf5588d6e8ea425f7b745f1be473
+SHA1: 4a2786eb2672ede1a2d4675cf4cde2d1e16bdb4a
+SHA256: cb53641e942a819948f29e43810ffb1b55ca2d56404b80b2f07b75332b7813dc
+Section: Tweaks
+Description: An awesome ACTikTok tweak!
+Author: aJBboCydia
+Name: ACTikTok
+
