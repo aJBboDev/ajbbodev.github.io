@@ -1,3 +1,19 @@
+Package: com.crazymind90.oslogger
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: @CrazyMind90
+Installed-Size: 1144
+Depends: mobilesubstrate
+Filename: ./debian_file/com.crazymind90.oslogger_2.0_iphoneos-arm64e.deb
+Size: 231824
+MD5sum: 71e02dce0168c44645c9b29fcbe454d2
+SHA1: d665b92536ceac3e2e5fde98852b92815cef5321
+SHA256: 09d63bd2b2b18a24d9926a562730027f84640bec88e96ce469f10de93d826192
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @CrazyMind90
+Name: OSLogger
+
 Package: net.ajbbo.acinsta
 Version: 1.0
 Architecture: iphoneos-arm64e
