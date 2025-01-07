@@ -94,6 +94,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: aJBboCydia
 Name: ACInsta
 
+Package: net.ajbbo.acinsta
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: aJBboCydia
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/net.ajbbo.acinsta_1.1_iphoneos-arm64.deb
+Size: 127166
+MD5sum: 22dcc486350deccca1c39df23f28d769
+SHA1: 1b05f4a95b3b151534865e8b61050e45d0d02cb4
+SHA256: 6690616cfd2ee63024f0457e6f6d0820adc2fce41433c90ecc4212d061457fdb
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: aJBboCydia
+Name: ACInsta
+
 Package: net.ajbbo.acjodel
 Version: 1.1
 Architecture: iphoneos-arm64
