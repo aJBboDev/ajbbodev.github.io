@@ -1,3 +1,8 @@
 {
-    "ACInsta" : "1.2"
+    "ACInsta" : "1.2",
+    "Update_Url": [
+        {
+            "ACInsta_Update" : "https://t.me/aJBbo/69"
+        }
+      ]
 }
