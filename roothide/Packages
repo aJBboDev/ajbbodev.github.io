@@ -78,6 +78,22 @@ Description: An awesome ACInsta tweak!
 Author: aJBboCydia
 Name: ACInsta
 
+Package: net.ajbbo.acinsta
+Version: 1.4
+Architecture: iphoneos-arm64e
+Maintainer: aJBboCydia
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/net.ajbbo.acinsta_1.4_iphoneos-arm64e.deb
+Size: 172458
+MD5sum: a2b8328f1ae884b9d09914067be70edf
+SHA1: 6274a1586f954c8909e48309a08d645795948a21
+SHA256: a79ac210ec42ccac648972e677d43c8273fff460bb80debc403faa3978030c3d
+Section: Tweaks
+Description: An awesome ACInsta tweak!
+Author: aJBboCydia
+Name: ACInsta
+
 Package: net.ajbbo.acjodel
 Version: 1.6
 Architecture: iphoneos-arm64e
