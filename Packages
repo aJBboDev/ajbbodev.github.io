@@ -480,6 +480,22 @@ Description: An awesome ACTikTok tweak!
 Author: aJBboCydia
 Name: ACTikTok
 
+Package: net.ajbbo.actiktok
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: aJBboCydia
+Installed-Size: 1096
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/net.ajbbo.actiktok_2.1_iphoneos-arm64.deb
+Size: 255226
+MD5sum: 9a5fbf2841062a437464a88c1f962243
+SHA1: 8cd728db316d3e7d3e208214c2b0b04eb417057c
+SHA256: 4dc53bce9ec6e064869d80ea0d7541102347ac6f01fdacb8c948fb317606453a
+Section: Tweaks
+Description: An awesome ACTikTok tweak!
+Author: aJBboCydia
+Name: ACTikTok
+
 Package: net.ajbbo.disableshareplay
 Version: 0.0.2
 Architecture: iphoneos-arm64
